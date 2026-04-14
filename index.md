@@ -6,7 +6,7 @@ title: UFO Visualization
 
 ## Plot 1
 
-<div id="plot1"></div>
+<iframe src="plot1.html" width="700" height="400"></iframe>
 
 ### Description
 
@@ -16,7 +16,7 @@ Plot 1 is a scatter plot that visualizes UFO sightings by longitude and latitude
 
 ## Plot 2
 
-<div id="plot2"></div>
+<iframe src="plot2.html" width="700" height="400"></iframe>
 
 ### Description
 
